@@ -1,0 +1,38 @@
+RethinkDB + React + Feathers + RxJS (Demo APP)
+https://www.rethinkdb.com/
+https://facebook.github.io/react/
+https://feathersjs.com/
+https://github.com/feathersjs/feathers-reactive
+http://reactivex.io/
+
+MongoDB
+https://www.meteor.com/ + https://www.mongodb.com/
+
+Mysql:
+https://www.npmjs.com/package/mysql-live
+https://www.npmjs.com/package/mysql-live-select
+https://www.npmjs.com/package/mysql-events
+
+PostgreSQL
+https://www.npmjs.com/package/pg-live-select
+http://blog.sagemath.com/2017/02/09/rethinkdb-vs-postgres.html ( READ comment about 9.5 version and WAL)
+https://blog.andyet.com/2015/04/06/postgres-pubsub-with-json/
+
+CouchDB
+http://docs.couchdb.org/en/2.0.0/api/database/changes.html
+http://guide.couchdb.org/draft/notifications.html
+https://github.com/couchbase/sync_gateway/wiki/WebSocket-Based-Changes-Feed
+
+PouchDB
+https://pouchdb.com/guides/changes.html
+
+
+FeathersJS presentation
+https://www.youtube.com/watch?v=fMd72fycz7U&t=85m00s
+
+Backends:
+http://horizon.io/
+https://firebase.google.com/docs/database/
+
+
+

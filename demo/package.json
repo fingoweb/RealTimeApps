@@ -1,0 +1,37 @@
+{
+  "name": "realtime-web-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "watch": "steal-tools live-reload"
+  },
+  "author": "",
+  "license": "MIT",
+  "system": {
+    "transpiler": "babel",
+    "babelOptions": {
+      "blacklist": []
+    },
+    "ext": {
+      "jsx": "steal-react-jsx"
+    }
+  },
+  "dependencies": {
+    "feathers": "^2.1.1",
+    "feathers-reactive": "^0.2.0",
+    "feathers-rethinkdb": "^0.2.1",
+    "feathers-socketio": "^1.4.0",
+    "react": "^15.5.2",
+    "react-dom": "^15.5.2",
+    "rethinkdbdash": "^2.3.7",
+    "rxjs": "^5.3.0",
+    "socket.io-client": "^1.4.6",
+    "steal": "^1.4.5",
+    "steal-jsx": "0.0.2"
+  },
+  "devDependencies": {
+    "steal-tools": "^0.16.4"
+  }
+}
